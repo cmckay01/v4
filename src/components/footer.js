@@ -8,8 +8,8 @@ const StyledFooter = styled.footer`
   ${({ theme }) => theme.mixins.flexCenter};
   flex-direction: column;
   height: auto;
-  min-height: 10px;
-  padding: 1px;
+  min-height: 70px;
+  padding: 15px;
   text-align: center;
 `;
 
@@ -43,15 +43,27 @@ const StyledSocialLinks = styled.div`
 const StyledCredit = styled.div`
   color: var(--light-slate);
   font-family: var(--font-mono);
-  font-size: var(--fz-xs); /* Adjust this value to shrink the text */
+  font-size: var(--fz-xxs);
   line-height: 1;
 
   a {
     padding: 10px;
   }
 
-  div {
-    margin-top: 200px; /* Increase this value to push down the label */
+  .github-stats {
+    margin-top: 10px;
+
+    & > span {
+      display: inline-flex;
+      align-items: center;
+      margin: 0 7px;
+    }
+    svg {
+      display: inline-block;
+      margin-right: 5px;
+      width: 14px;
+      height: 14px;
+    }
   }
 `;
 
@@ -94,7 +106,7 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <a href="https://github.com/bchiang7/v4">
-          <div>Template Designed &amp; Built by Brittany Chiang</div>
+          <div>Designed &amp; Built by Brittany Chiang</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
