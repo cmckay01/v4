@@ -1,13 +1,13 @@
 ---
 date: '2022-12-21'
-title: 'Geospatial and Structural Analysis Engineering Intern'
+title: 'Geospatial and Structural Engineering Intern'
 company: 'P2S'
 location: 'Pottstown, PA'
 range: 'June 2022 - August 2022'
 url: 'https://www.promote2sell.com/'
 ---
 
--Promote2Sell: Led a geospatial surveying initiative across 22 states to capture high-fidelity data for critical infrastructure analysis. Utilized latest drone technology to conduct aerial surveys, generating comprehensive topographical and structural data sets.
+- Promote2Sell (P2S): Led a geospatial surveying initiative across 22 states to capture high-fidelity data for critical infrastructure analysis. Utilized latest drone technology to conduct aerial surveys, generating comprehensive topographical and structural data sets.
 
 - Specialized in 3D LIDAR scanning using Matterport technology to create intricate internal maps of commercial properties. This involved meticulous planning and execution to ensure precision in spatial data collection, aiding in accurate property assessment and evaluation.
 - Conducted detailed building inspections focusing on key structural assets such as plumbing, HVAC, and electrical systems. Identified potential areas of concern, including water damage and structural integrity, providing crucial data for property valuation and risk assessment.
