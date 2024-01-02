@@ -1,7 +1,7 @@
 ---
 date: '2023-12-30'
 title: 'Software Engineering Intern'
-company: 'Columbia Build Lab'
+company: 'CBL'
 location: 'New York City, NY'
 range: 'June 2023 - August 2023'
 url: 'https://www.columbiabuildlab.com/'

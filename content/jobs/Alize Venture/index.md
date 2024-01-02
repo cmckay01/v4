@@ -1,7 +1,7 @@
 ---
 date: '2019-12-21'
 title: 'Software Engineering Intern'
-company: 'Alizé Ventures'
+company: 'Alizé'
 location: 'Scottsdale, AZ'
 range: 'April 2019 - Aug 2019'
 url: 'https://alizeventures.com/'
