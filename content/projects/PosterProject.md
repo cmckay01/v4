@@ -4,11 +4,11 @@ title: 'Particle Physics Research Poster'
 github: ''
 external: 'https://docs.google.com/presentation/d/1Bb4LMBtvWm9bAWpxjt0aqtZjYtykWW3w/edit?usp=sharing&ouid=106505464631984987700&rtpof=true&sd=true'
 tech:
-  - C++
-  - Git
-  - Monte Carlo Simulation
-  - Data Analysis
-  - Particle Physics
+  - C++  •
+  - Git  •
+  - Monte Carlo Simulation  •
+  - Data Analysis  •
+  - Particle Physics  •
 company: 'Jefferson Lab'
 showInProjects: true
 ---

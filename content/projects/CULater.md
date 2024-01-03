@@ -4,11 +4,11 @@ title: 'CULater App'
 github: 'http://www.github.com/cmckay01/CULater'
 external: 'http://www.github.com/cmckay01/CULater'
 tech:
-  - JavaScript
-  - TypeScript
-  - CSS
-  - React
-  - Node.js
+  - JavaScript  •
+  - TypeScript  •
+  - CSS  •
+  - React  •
+  - Node.js  •
   - Firebase
 showInProjects: true
 ---

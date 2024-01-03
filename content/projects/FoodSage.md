@@ -4,9 +4,9 @@ title: 'FoodSage - Inventory Management'
 github: 'https://www.github.com/cmckay01/FoodSage'
 external: 'https://www.github.com/cmckay01/FoodSage'
 tech:
-  - Python
-  - SQLite
-  - UPCitemdb API
+  - Python  •
+  - SQLite  •
+  - UPCitemdb API  •
   - Raspberry Pi
 showInProjects: true
 ---

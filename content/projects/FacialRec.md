@@ -3,9 +3,9 @@ date: '2022-05-23'
 title: 'Facial Recognition Project'
 external: 'https://drive.google.com/drive/folders/1ykcJfjSceDHDlKoQr_380xJ-2UWAm6tb?usp=sharing'
 tech:
-  - Python
-  - TensorFlow
-  - OpenCV
+  - Python  •
+  - TensorFlow  •
+  - OpenCV  •
   - Raspberry Pi
 showInProjects: true
 ---
