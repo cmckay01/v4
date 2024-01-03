@@ -196,7 +196,7 @@ const ArchivePage = ({ location, data }) => {
                             <span key={i}>
                               {item}
                               {''}
-                              {i !== tech.length - 1 && <span className="separator">&middot;</span>}
+                              {i !== tech.length - 1 && <span className="separator"></span>}
                             </span>
                           ))}
                       </td>

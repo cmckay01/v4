@@ -254,12 +254,7 @@ const Projects = () => {
           {tech && (
             <ul className="project-tech-list">
               {tech.map((tech, i) => (
-                <React.Fragment key={i}>
-                  {/* Display the technology tag */}
-                  <li style={{ display: 'inline' }}>{tech}</li>
-                  {/* Insert the middle dot with spaces around it, but not after the last item */}
-                  {i !== tech.length - 1 && <span className="separator"> &middot; </span>}
-                </React.Fragment>
+                <li key={i}>{tech}</li>
               ))}
             </ul>
           )}
