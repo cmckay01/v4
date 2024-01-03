@@ -142,17 +142,15 @@ const About = () => {
               fueled my passion for understanding the world around us.{' '}
             </p>
             <p>
-              As far my foray into computer science, no, I'm not boy wonder who started coding fresh
-              out of the womb. Think less 'Silicon Valley prodigy' and more 'somewhat-recent-rookie
-              coder with a growing bag of tricks.' My coding story began in a high school robotics
-              team. It was there, amidst the hum of machines and the camaraderie of my team, that I
-              found the beauty in writing code. It's not like any other form of writing; it's
-              crafting a language that breathes life into ideas. Code is essentially an enigmatic,
-              magical language that allows you to become a wizard. Your wand is your keyboard. The
-              limits of what you can create have no bound. Seeing a robot come to life — performing
-              complex maneuvers through a series of logical steps and instructions — was my first
-              thrill. The initial magic of it is what never failed to excite me, and since then I’ve
-              been hooked.{' '}
+              As far my foray into CS, my coding story began in a high school robotics team. It was
+              there, amidst the hum of machines and the camaraderie of my team, that I found the
+              beauty in writing code. It's not like any other form of writing; it's crafting a
+              language that breathes life into ideas. Code is essentially an enigmatic, magical
+              language that allows you to become a wizard. Your wand is your keyboard. The limits of
+              what you can create have no bound. Seeing a robot come to life — performing complex
+              maneuvers through a series of logical steps and instructions — was my first thrill.
+              The initial magic of it is what never failed to excite me, and since then I’ve been
+              hooked.{' '}
             </p>
             <p>
               Fast forward through years of hard work, a physics degree at West Chester University,
