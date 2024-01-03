@@ -4,9 +4,9 @@ title: 'Sentiment Analysis Paper'
 external: 'https://drive.google.com/file/d/1YVg2zL9iokXG0NkLkev6M_iNFZrYNV4s/view?usp=sharing'
 company: 'Columbia'
 tech:
-  - Python
-  - Reddit API
-  - BERT HuggingFace
+  - Python •
+  - Reddit API •
+  - BERT HuggingFace •
   - Financial Analysis
 showInProjects: true
 ---
