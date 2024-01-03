@@ -5,10 +5,10 @@ cover: './demo.png'
 github: 'https://github.com/cmckay01/ModUniverseApp'
 external: 'https://github.com/cmckay01/ModUniverseApp'
 tech:
-  - Python •
-  - PyQt5 •
-  - Matplotlib •
-  - NumPy •
+  - Python
+  - PyQt5
+  - Matplotlib
+  - NumPy
   - Runge-Kutta Integration
 ---
 

@@ -4,9 +4,9 @@ title: 'Ray Tracing Engine'
 github: 'https://github.com/cmckay01/RayTrace'
 external: 'https://github.com/cmckay01/RayTrace'
 tech:
-  - C++ •
-  - C •
-  - STB Image Write •
+  - C++
+  - C
+  - STB Image Write
   - Computational Geometry
 showInProjects: true
 ---
