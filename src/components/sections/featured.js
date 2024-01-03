@@ -376,9 +376,10 @@ const Featured = () => {
                       <ul className="project-tech-list">
                         {tech.map((tech, i) => (
                           <React.Fragment key={i}>
-                            <li>{tech}</li>
-                            {/* Insert the middle dot between items but not after the last item */}
-                            {i !== tech.length - 1 && <span className="separator">&middot;</span>}
+                            {/* Display the technology tag */}
+                            <li style={{ display: 'inline' }}>{tech}</li>
+                            {/* Insert the middle dot with spaces around it, but not after the last item */}
+                            {i !== tech.length - 1 && <span className="separator"> &middot; </span>}
                           </React.Fragment>
                         ))}
                       </ul>
