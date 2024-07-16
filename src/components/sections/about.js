@@ -135,54 +135,10 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Ciaran, a seeker of knowledge and a creator of cool projects in the realms
-              of physics and computer science. As a kid, stargazing wasn't just a pastime; it was
-              the beginning of my fascination with the universe, inevitably leading me towards a
-              passion in physics. Every moment spent unraveling the mysteries of the cosmos has
-              fueled my passion for understanding the world around us.{' '}
-            </p>
-            <p>
-              As far my foray into CS, my coding story began in a high school robotics team. It was
-              there, amidst the hum of machines and the camaraderie of my team, that I found the
-              beauty in writing code. It's not like any other form of writing; it's crafting a
-              language that breathes life into ideas. Code is essentially an enigmatic, magical
-              language that allows you to become a wizard. Your wand is your keyboard. The limits of
-              what you can create have no bound. Seeing a robot come to life — performing complex
-              maneuvers through a series of logical steps and instructions — was my first thrill.
-              The initial magic of it is what never failed to excite me, and since then I’ve been
-              hooked.{' '}
-            </p>
-            <p>
-              Fast forward through years of hard work, a physics degree at West Chester University,
-              and further studies at Columbia University for a second bachelors in CS (for the 3-2
-              Combined Plan program), here I am. This site is a window into my world — a blend of
-              intellectual curiosity and hands-on project making. It's an intimate resume of sorts,
-              showcasing a journey fueled by a love for the stars and the satisfaction of solving a
-              tricky coding problem.
-            </p>
-            <p>
-              So, welcome to my corner of the internet — a place where physics meets programming,
-              and where curiosity is always the driving force — or something like that.
-            </p>
-
-            <p>
-              Up until this point, I've had the privilege of contributing to a diverse range of
-              teams ranging from <a href="https://www.jlab.org/Hall-D/">a particle physics lab</a>,
-              to various startups, including a company that helps{' '}
-              <a href="https://www.columbiabuildlab.com/"> boost traffic for small businesses</a>, a{' '}
-              <a href="https://idzyns.com/project/livitlab/"> VR/AR ed-tech startup</a>, and a firm
-              specialized in{' '}
-              <a href="https://www.promote2sell.com/">
-                {' '}
-                topographical and structural data collection
-              </a>
-              . My journey through these dynamic environments has been marked by a wonderful variety
-              of experiences. This path has afforded me significant flexibility and control over my
-              work, enabling me to thrive in fast-paced settings. I've relished the opportunity to
-              contribute my ideas to projects, gain extensive hands-on experience, and feel like a
-              valuable member of each team. As I look to the future, my goal is to leverage these
-              rich experiences into a long-term role where I can continue to offer meaningful
-              contributions and fresh perspectives.
+              Hello! I'm Ciaran, welcome to my site. Feel free to explore and keep an eye out for
+              updates from time to time. I plan to start writing more blogs soon. This site started
+              out as more of a portfolio and now I plan to turn it into a more personal digital
+              journal or archive of my own thoughts and interests.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
