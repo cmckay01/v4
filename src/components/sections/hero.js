@@ -76,7 +76,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://github.com/cmckay01/ModUniverseApp"
+      href="https://github.com/cmckay01/SoundScape"
       target="_blank"
       rel="noreferrer">
       Check out my latest project!
