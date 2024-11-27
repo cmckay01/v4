@@ -1,6 +1,6 @@
 ---
 date: '2024-05-28'
-title: 'Software Engineering'
+title: 'Software Engineer'
 company: 'Vanguard'
 location: 'Malvern, AZ'
 range: 'May 2024 - Present'
